@@ -1,0 +1,4 @@
+name: AnarchyUtilsReloaded
+version: '${project.version}'
+main: me.toplib.anarchyutilsreloaded.AnarchyUtilsReloaded
+api-version: '1.16'
